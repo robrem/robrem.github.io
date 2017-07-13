@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Rob Remington | Web developer</title>
-    <link>https://rob.codes/gallery/</link>
+    <link>https://robrem.github.io/gallery/</link>
     <description>Recent content in Galleries on Rob Remington | Web developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>false</copyright>
     <lastBuildDate>Thu, 13 Jul 2017 14:14:52 -0700</lastBuildDate>
     
-	<atom:link href="https://rob.codes/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robrem.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>@WhoseRep Twitter Bot</title>
-      <link>https://rob.codes/gallery/whoserep/</link>
+      <link>https://robrem.github.io/gallery/whoserep/</link>
       <pubDate>Thu, 13 Jul 2017 14:14:52 -0700</pubDate>
       
-      <guid>https://rob.codes/gallery/whoserep/</guid>
+      <guid>https://robrem.github.io/gallery/whoserep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenSecrets API Client</title>
-      <link>https://rob.codes/gallery/opensecrets/</link>
+      <link>https://robrem.github.io/gallery/opensecrets/</link>
       <pubDate>Thu, 13 Jul 2017 14:07:54 -0700</pubDate>
       
-      <guid>https://rob.codes/gallery/opensecrets/</guid>
+      <guid>https://robrem.github.io/gallery/opensecrets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ProPublica Nonprofit API Client</title>
-      <link>https://rob.codes/gallery/propublica/</link>
+      <link>https://robrem.github.io/gallery/propublica/</link>
       <pubDate>Thu, 13 Jul 2017 14:02:14 -0700</pubDate>
       
-      <guid>https://rob.codes/gallery/propublica/</guid>
+      <guid>https://robrem.github.io/gallery/propublica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Washington</title>
-      <link>https://rob.codes/gallery/uw/</link>
+      <link>https://robrem.github.io/gallery/uw/</link>
       <pubDate>Thu, 13 Jul 2017 13:54:15 -0700</pubDate>
       
-      <guid>https://rob.codes/gallery/uw/</guid>
+      <guid>https://robrem.github.io/gallery/uw/</guid>
       <description></description>
     </item>
     
