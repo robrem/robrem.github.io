@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rob Remington | Web developer</title>
+    <link>https://rob.codes/</link>
+    <description>Recent content on Rob Remington | Web developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>false</copyright>
+    <lastBuildDate>Thu, 13 Jul 2017 14:14:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://rob.codes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@WhoseRep Twitter Bot</title>
+      <link>https://rob.codes/gallery/whoserep/</link>
+      <pubDate>Thu, 13 Jul 2017 14:14:52 -0700</pubDate>
+      
+      <guid>https://rob.codes/gallery/whoserep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSecrets API Client</title>
+      <link>https://rob.codes/gallery/opensecrets/</link>
+      <pubDate>Thu, 13 Jul 2017 14:07:54 -0700</pubDate>
+      
+      <guid>https://rob.codes/gallery/opensecrets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProPublica Nonprofit API Client</title>
+      <link>https://rob.codes/gallery/propublica/</link>
+      <pubDate>Thu, 13 Jul 2017 14:02:14 -0700</pubDate>
+      
+      <guid>https://rob.codes/gallery/propublica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Washington</title>
+      <link>https://rob.codes/gallery/uw/</link>
+      <pubDate>Thu, 13 Jul 2017 13:54:15 -0700</pubDate>
+      
+      <guid>https://rob.codes/gallery/uw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi there.</title>
+      <link>https://rob.codes/about/</link>
+      <pubDate>Wed, 05 Jul 2017 17:57:54 -0700</pubDate>
+      
+      <guid>https://rob.codes/about/</guid>
+      <description>I&amp;rsquo;m Rob, a Web developer who recently completed a Master&amp;rsquo;s in Computer Science while working full-time for the University of Washington.
+Whew.
+I like bad coffee and clear code.
+I&amp;rsquo;m seeking my next software engineering opportunity. Maybe with you. Let&amp;rsquo;s chat.</description>
+    </item>
+    
+  </channel>
+</rss>
