@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rob Remington | Web developer</title>
-    <link>https://robrem.github.io/</link>
+    <link>https://rob.codes/</link>
     <description>Recent content on Rob Remington | Web developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>false</copyright>
     
-	<atom:link href="https://robrem.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rob.codes/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
